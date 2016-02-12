@@ -3,5 +3,4 @@ description:  Matrix rain with Dart. Inspired by https://github.com/hendo13/HTML
 dependencies:
   browser: any
 dev_dependencies:
-  runtime:
-    path: ../../../web_runtime
+  
